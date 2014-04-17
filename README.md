@@ -2,7 +2,7 @@
 
 Java port of the twitter-text handling libraries.
 
-## Getting Started
+## Getting Started Now
 
 The latest artifacts are published to maven central. 
 
